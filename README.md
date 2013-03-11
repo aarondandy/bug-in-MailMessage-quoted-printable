@@ -1,4 +1,4 @@
-Bug-Quoted-Printable-MailMessage
+Bug in MailMessage with quoted-printable
 ================================
 
-Bug in .NET MailMessage: Invalid dot-stuffing when using quoted-printable encoding
+A bug in .NET MailMessage: Invalid dot-stuffing when using quoted-printable encoding.
